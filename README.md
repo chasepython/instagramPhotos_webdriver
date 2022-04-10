@@ -1,5 +1,5 @@
 # instagramPhotos_Webdriver
-A Automated Webdriver for Instagram photos.You can get photos from instagram what you need.
+Automated Webdriver for Instagram photos.You can get photos from instagram what you need.
 -------------------------------------------------------------
 
 
